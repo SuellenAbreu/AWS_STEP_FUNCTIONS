@@ -8,9 +8,9 @@ Este laboratório tem como objetivo consolidar seus workflows automatizados com 
 # Objetivos de Aprendizagem 
 
 Ao concluir este desafio, você será capaz de: 
-> Aplicar os conceitos aprendidos em um ambiente prático; 
-> Documentar processos técnicos de forma clara e estruturada;
-> Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
+* Aplicar os conceitos aprendidos em um ambiente prático; 
+* Documentar processos técnicos de forma clara e estruturada;
+* Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
 
 # DESAFIOS ENCONTRADOS
 
